@@ -9,6 +9,9 @@ h1{
     font-size: 40px;
     font-weight: 900;
 }
+h2{
+    font-size: 30px;
+}
 .header-content{
     width: 50%;
     margin-top: 30px;
@@ -55,4 +58,28 @@ h1{
 }
 #about-me-content p{
     margin-bottom: 60px;
+}
+.recipes{
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 50px;
+    margin-top: 100px;
+}
+.recipe-card{
+    width: 305px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1%;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+}
+.recipe-card img{
+    width: 300px;
+    height: 200px;
+    border-radius: 20px;
+}
+.recipe-card p{
+    width: 300px;
+    text-align: left;
 }
