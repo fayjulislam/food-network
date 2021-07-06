@@ -146,5 +146,8 @@ footer{
     padding: 5%;
 }
 .copyright{
+    color: white;
+    background-color: rgb(47, 47, 214);
     text-align: center;
+    padding: 5px;
 }
