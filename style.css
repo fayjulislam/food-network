@@ -80,6 +80,20 @@ h2{
     border-radius: 20px;
 }
 .recipe-card p{
-    width: 300px;
+    width: 295px;
     text-align: left;
+}
+.followers-section{
+    width: 90%;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+}
+.followers{
+    padding: 3%;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
 }
